@@ -1,3 +1,4 @@
+//
 let earthName = "Earth"
 let earthMoons = 1
 let earthOrbit = 365.26
